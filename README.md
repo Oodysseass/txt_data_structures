@@ -1,1 +1,1 @@
-# txt_data_structures
+A C++ project aimed to implement basic data structures, read huge texts from Gutenberg Project, save the differents words and then able to search, delete, count times of appearance and calculate time needed for each data structure
